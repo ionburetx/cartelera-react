@@ -38,7 +38,8 @@ Revisión de entregables por parte del profesorado.
     1. Todos:
         - Vite: configuración básica
         - Componentes funcionales + JSX
-        - Hooks useState + useEffect- Formularios - validaciones
+        - Hooks useState + useEffect
+        - Formularios - validaciones
         - Routing básico react-router-dom
         - Vitest Setup inicial
 
