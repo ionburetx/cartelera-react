@@ -42,7 +42,7 @@ Revisión de entregables por parte del profesorado.
         - Routing básico react-router-dom
         - Vitest Setup inicial
 
-    2. Equipo 1 - Componentens + Vitest (~30h)
+    2. Equipo 1 - Componentes + Vitest (~30h)
         - Tailwind CSS
         - Patrones de componentes: Props children, composición
         - Testing. Pruebas de renders e interacciones básicas (@testing-library/user-event)
