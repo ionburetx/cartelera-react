@@ -10,7 +10,7 @@ Desarollador Frontend.
 
 ## Competencias
 
-- Crear una interfaz de usuario web estática y adaptable, utilizando un framemework profesional: [React](https://es.react.dev/)
+- Crear una interfaz de usuario web adaptable, utilizando un framemework profesional: [React](https://es.react.dev/)
 
 - Herramienta profesional de construcción FrontEnd: [Vite](https://vite.dev/)
 
