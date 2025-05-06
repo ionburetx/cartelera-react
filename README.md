@@ -35,7 +35,7 @@ Revisión de entregables por parte del profesorado.
 ## Entregables
 
 1. Investigación:
-    1. Todos:
+    1. Todos (~20h):
         - Vite: configuración básica
         - Componentes funcionales + JSX
         - Hooks useState + useEffect
