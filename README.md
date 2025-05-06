@@ -54,6 +54,7 @@ Revisión de entregables por parte del profesorado.
         - Zustand (alternativa simple a Redux) para gestión de estados
         - Axios (alternativa evolucionadad de fetch) para recuperación de datos
         - Testing: Pruebas stores (Zuzstand), y mock de APIs en tests (msw)
+        
         Entrega: App de ToDOs con estado global (Zustand) y obtencion de datos mockeados (JSON Server), con tests al 60% de cobertura
     
     4. Equipo 3 - Navegación + Autenticación
